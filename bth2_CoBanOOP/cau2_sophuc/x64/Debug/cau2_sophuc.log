@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\TRINH\OneDrive\Documents\visualStudioCommunity2022\uit\oop\bth2_cobanoop\cau2_sophuc\cau2_sophuc\main.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  cau2_sophuc.vcxproj -> C:\Users\TRINH\OneDrive\Documents\visualStudioCommunity2022\uit\oop\bth2_cobanoop\cau2_sophuc\x64\Debug\cau2_sophuc.exe
