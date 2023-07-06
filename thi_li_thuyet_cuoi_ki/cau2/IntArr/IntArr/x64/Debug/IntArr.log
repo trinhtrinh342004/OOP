@@ -1,0 +1,7 @@
+﻿  IntArr.cpp
+D:\code\c++\oop\thi_li_thuyet_cuoi_ki\cau2\IntArr\IntArr\IntArr.cpp(111,25): error C2248: 'IntArr::count': cannot access private member declared in class 'IntArr'
+D:\code\c++\oop\thi_li_thuyet_cuoi_ki\cau2\IntArr\IntArr\IntArr.cpp(7,6): message : see declaration of 'IntArr::count'
+D:\code\c++\oop\thi_li_thuyet_cuoi_ki\cau2\IntArr\IntArr\IntArr.cpp(4,7): message : see declaration of 'IntArr'
+D:\code\c++\oop\thi_li_thuyet_cuoi_ki\cau2\IntArr\IntArr\IntArr.cpp(112,12): error C2248: 'IntArr::values': cannot access private member declared in class 'IntArr'
+D:\code\c++\oop\thi_li_thuyet_cuoi_ki\cau2\IntArr\IntArr\IntArr.cpp(8,7): message : see declaration of 'IntArr::values'
+D:\code\c++\oop\thi_li_thuyet_cuoi_ki\cau2\IntArr\IntArr\IntArr.cpp(4,7): message : see declaration of 'IntArr'

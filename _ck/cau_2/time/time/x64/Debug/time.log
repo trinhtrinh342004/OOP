@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\code\c++\oop\_ck\cau_2\time\time\main.cpp(23,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  time.vcxproj -> D:\code\c++\oop\_ck\cau_2\time\x64\Debug\time.exe

@@ -1,0 +1,2 @@
+﻿time.obj : error LNK2005: main already defined in mang_dong.obj
+D:\code\c++\oop\_ck\c2\x64\Debug\c2.exe : fatal error LNK1169: one or more multiply defined symbols found
